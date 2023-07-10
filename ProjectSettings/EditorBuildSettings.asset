@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/INICIO.unity
+    guid: d4197a79a027b6245aa0b0944512bb98
+  - enabled: 1
+    path: "Assets/Scenes/MEN\xDA.unity"
+    guid: db8dfa3931617eb42aa9ab7b1ac13137
+  - enabled: 1
+    path: Assets/Scenes/Nivel Nieve.unity
+    guid: aaa13fbd8faabea4582d49c9dcd2378e
+  - enabled: 1
+    path: Assets/Scenes/OPCIONES.unity
+    guid: ab1043039c5589649ac8dcc9634bc630
+  - enabled: 1
+    path: Assets/Scenes/INFO.unity
+    guid: 62eb2a32122ddc94f8a4df96f36de96b
+  - enabled: 1
+    path: Assets/Scenes/AYUDA.unity
+    guid: 96bc2f9dd82c3d445875ad5073f19695
+  - enabled: 1
+    path: Assets/Scenes/Nivel FUEGO.unity
+    guid: 3907b9725e5b6bc4faf7656d9c6bdba6
+  - enabled: 1
+    path: Assets/Scenes/NIVEL SELVA.unity
+    guid: 2517dde3cac1bf8429575efc45aa131c
+  m_configObjects: {}
